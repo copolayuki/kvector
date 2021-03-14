@@ -15,8 +15,8 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko-KO"
-title                    : "KVector"
+locale                   : "ko-KR"
+title                    : "Kvector"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "JayMo"
@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "JayMo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "CIO"
+  location         : ""
+  email            : "jaymo@kvector.co.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
